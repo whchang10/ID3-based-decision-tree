@@ -1,0 +1,33 @@
+petal length:['<=', 1.8999999999999999]
+ <Iris-setosa>
+petal length:['>', 1.8999999999999999]
+ petal width:['<=', 1.7]
+  petal length:['<=', 4.9000000000000004]
+   sepal length:['<=', 4.9000000000000004]
+    sepal width:['<=', 2.3999999999999999]
+     <Iris-versicolor>
+    sepal width:['>', 2.3999999999999999]
+     <Iris-virginica>
+   sepal length:['>', 4.9000000000000004]
+    <Iris-versicolor>
+  petal length:['>', 4.9000000000000004]
+   petal width:['<=', 1.5]
+    <Iris-virginica>
+   petal width:['>', 1.5]
+    sepal length:['<=', 6.0]
+     <Iris-versicolor>
+    sepal length:['>', 6.0]
+     sepal width:['<=', 3.0]
+      <Iris-versicolor>
+     sepal width:['>', 3.0]
+      <Iris-virginica>
+ petal width:['>', 1.7]
+  petal length:['<=', 4.7999999999999998]
+   sepal length:['<=', 5.9000000000000004]
+    <Iris-versicolor>
+   sepal length:['>', 5.9000000000000004]
+    <Iris-virginica>
+  petal length:['>', 4.7999999999999998]
+   <Iris-virginica>
+
+15 of 15 (100.00%) of testing examples correctly identified
