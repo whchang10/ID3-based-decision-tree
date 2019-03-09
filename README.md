@@ -1,3 +1,3 @@
 # ID3 Based Decision Tree
-- Implement ID3 based decision tree algorithm for integer attributes from scratch (id3.py)
+- Implement ID3 based decision tree algorithm(id3.py) for integer attributes from scratch 
 - Extend it to support real-valued attributes ()
